@@ -351,6 +351,6 @@ MIT License - Built for UI Strikes Back Hackathon
 
 May the Force be with your UI! 🌟
 
-[Live Demo](https://ticketmaster-ai.vercel.app/) • [Video Demo](https://youtube.com/your-video)
+[Live Demo](https://ticketmaster-ai.vercel.app/) • [Video Demo](https://youtu.be/SvJvJE_0rF4?si=KVd_zJlEjl22JLjS)
 
 </div>
